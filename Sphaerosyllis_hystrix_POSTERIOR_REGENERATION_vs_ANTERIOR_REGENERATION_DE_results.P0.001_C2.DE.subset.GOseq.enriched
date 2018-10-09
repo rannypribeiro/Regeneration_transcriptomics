@@ -1,0 +1,58 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0035375	0.000428314418920685	0.999996340720819	2	13	zymogen binding	MF	0.9999999999	MF zymogen binding	TR100490|c0_g1, TR73554|c1_g1
+GO:0030667	0.000754206778520081	0.99994352478815	4	107	secretory granule membrane	CC	0.9999999999	CC secretory granule membrane	TR100490|c0_g1, TR29517|c0_g1, TR73554|c1_g1, TR91129|c1_g1
+GO:0042589	0.000948314443180233	0.999987217770118	2	22	zymogen granule membrane	CC	0.9999999999	CC zymogen granule membrane	TR100490|c0_g1, TR73554|c1_g1
+GO:0005044	0.00151303667379711	0.999921039270359	3	79	scavenger receptor activity	MF	0.9999999999	MF scavenger receptor activity	TR100490|c0_g1, TR68501|c0_g1, TR73554|c1_g1
+GO:0038024	0.00370310053584507	0.999733223833992	3	112	cargo receptor activity	MF	0.9999999999	MF cargo receptor activity	TR100490|c0_g1, TR68501|c0_g1, TR73554|c1_g1
+GO:0031514	0.00371274160826199	0.999566018957497	4	198	motile cilium	CC	0.9999999999	CC motile cilium	TR104374|c2_g1, TR29517|c0_g1, TR68291|c0_g1, TR93322|c0_g1
+GO:0097105	0.00687699698671226	0.99973580389745	2	44	presynaptic membrane assembly	BP	0.9999999999	BP presynaptic membrane assembly	TR72159|c2_g2, TR93996|c0_g1
+GO:0006599	0.00797684072911875	0.999978911266327	1	3	phosphagen metabolic process	BP	0.9999999999	BP phosphagen metabolic process	TR104374|c2_g1
+GO:0006603	0.00797684072911875	0.999978911266327	1	3	phosphocreatine metabolic process	BP	0.9999999999	BP phosphocreatine metabolic process	TR104374|c2_g1
+GO:0032579	0.00823702154610332	0.999654515839578	2	38	apical lamina of hyaline layer	CC	0.9999999999	CC apical lamina of hyaline layer	TR102531|c1_g1, TR70556|c1_g1
+GO:0005929	0.0087236679723709	0.997697969020523	7	717	cilium	CC	0.9999999999	CC cilium	TR104374|c2_g1, TR29517|c0_g1, TR47488|c1_g3, TR60465|c0_g1, TR68291|c0_g1, TR7966|c0_g1, TR93322|c0_g1
+GO:0097090	0.00986565361225228	0.999541183770674	2	50	presynaptic membrane organization	BP	0.9999999999	BP presynaptic membrane organization	TR72159|c2_g2, TR93996|c0_g1
+GO:1902017	0.0100510015449509	0.999529972907896	2	44	regulation of cilium assembly	BP	0.9999999999	BP regulation of cilium assembly	TR47488|c1_g3, TR7966|c0_g1
+GO:0005001	0.0106319630003869	0.999493986841282	2	33	transmembrane receptor protein tyrosine phosphatase activity	MF	0.9999999999	MF transmembrane receptor protein tyrosine phosphatase activity	TR72159|c2_g2, TR93996|c0_g1
+GO:0019198	0.0106319630003869	0.999493986841282	2	33	transmembrane receptor protein phosphatase activity	MF	0.9999999999	MF transmembrane receptor protein phosphatase activity	TR72159|c2_g2, TR93996|c0_g1
+GO:0001581	0.0110115224694316	0.999954741887899	1	4	detection of chemical stimulus involved in sensory perception of sour taste	BP	0.9999999999	BP detection of chemical stimulus involved in sensory perception of sour taste	TR94758|c3_g1
+GO:0050775	0.0135636865314185	0.999251870927061	2	59	positive regulation of dendrite morphogenesis	BP	0.9999999999	BP positive regulation of dendrite morphogenesis	TR72159|c2_g2, TR93996|c0_g1
+GO:0045023	0.0140791054939786	0.999950552585626	1	2	G0 to G1 transition	BP	0.9999999999	BP G0 to G1 transition	TR97271|c1_g1
+GO:0097223	0.0156707938727759	0.998084777406356	3	169	sperm part	CC	0.9999999999	CC sperm part	TR29517|c0_g1, TR63360|c0_g1, TR68291|c0_g1
+GO:0030644	0.0180203247218868	0.999858278643194	1	8	cellular chloride ion homeostasis	BP	0.9999999999	BP cellular chloride ion homeostasis	TR104374|c2_g1
+GO:0055064	0.0180203247218868	0.999858278643194	1	8	chloride ion homeostasis	BP	0.9999999999	BP chloride ion homeostasis	TR104374|c2_g1
+GO:0005930	0.0184906861940519	0.997593153821807	3	193	axoneme	CC	0.9999999999	CC axoneme	TR47488|c1_g3, TR60465|c0_g1, TR7966|c0_g1
+GO:0000802	0.0193439635497345	0.999859837773464	1	4	transverse filament	CC	0.9999999999	CC transverse filament	TR27146|c0_g1
+GO:0051878	0.0193439635497345	0.999859837773464	1	4	lateral element assembly	BP	0.9999999999	BP lateral element assembly	TR27146|c0_g1
+GO:0044420	0.0193739228882832	0.996341428318419	4	321	extracellular matrix component	CC	0.9999999999	CC extracellular matrix component	TR102531|c1_g1, TR70556|c1_g1, TR73554|c1_g1, TR86081|c1_g3
+GO:0004872	0.0203441062504558	0.993083648551971	8	1111	receptor activity	MF	0.9999999999	MF receptor activity	TR100490|c0_g1, TR36671|c0_g1, TR68501|c0_g1, TR72159|c2_g2, TR73554|c1_g1, TR87176|c2_g1, TR91129|c1_g1, TR93996|c0_g1
+GO:0006968	0.0210518324494787	0.999798864642028	1	11	cellular defense response	BP	0.9999999999	BP cellular defense response	TR47488|c1_g3
+GO:0000711	0.0228417109641575	0.999782668673685	1	6	meiotic DNA repair synthesis	BP	0.9999999999	BP meiotic DNA repair synthesis	TR27146|c0_g1
+GO:0035092	0.0243494543360023	0.999752881740442	1	6	sperm chromatin condensation	BP	0.9999999999	BP sperm chromatin condensation	TR27146|c0_g1
+GO:0003810	0.0243688527062308	0.999736106506268	1	9	protein-glutamine gamma-glutamyltransferase activity	MF	0.9999999999	MF protein-glutamine gamma-glutamyltransferase activity	TR15367|c0_g1
+GO:0050915	0.0274720092418335	0.999653818856249	1	12	sensory perception of sour taste	BP	0.9999999999	BP sensory perception of sour taste	TR94758|c3_g1
+GO:0080154	0.0304711998543598	0.999577121080345	1	11	regulation of fertilization	BP	0.9999999999	BP regulation of fertilization	TR29517|c0_g1
+GO:0072345	0.0308941665160991	0.999569537286214	1	10	NAADP-sensitive calcium-release channel activity	MF	0.9999999999	MF NAADP-sensitive calcium-release channel activity	TR75526|c0_g1
+GO:0050912	0.0313757323910736	0.999551490173592	1	11	detection of chemical stimulus involved in sensory perception of taste	BP	0.9999999999	BP detection of chemical stimulus involved in sensory perception of taste	TR94758|c3_g1
+GO:0015278	0.0341877839429406	0.996932730919387	2	51	calcium-release channel activity	MF	0.9999999999	MF calcium-release channel activity	TR75526|c0_g1, TR91129|c1_g1
+GO:0000801	0.0343742098526823	0.999505534111983	1	6	central element	CC	0.9999999999	CC central element	TR27146|c0_g1
+GO:0007157	0.0349847713644085	0.996792135320964	2	76	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	BP	0.9999999999	BP heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	TR72159|c2_g2, TR93996|c0_g1
+GO:0071361	0.0350327073813189	0.999460854476452	1	8	cellular response to ethanol	BP	0.9999999999	BP cellular response to ethanol	TR91129|c1_g1
+GO:1900006	0.0377876109784789	0.996370019744089	2	103	positive regulation of dendrite development	BP	0.9999999999	BP positive regulation of dendrite development	TR72159|c2_g2, TR93996|c0_g1
+GO:0043083	0.0383121453428271	0.999296408766908	1	22	synaptic cleft	CC	0.9999999999	CC synaptic cleft	TR73554|c1_g1
+GO:0071709	0.0384076238228573	0.996270935351837	2	119	membrane assembly	BP	0.9999999999	BP membrane assembly	TR72159|c2_g2, TR93996|c0_g1
+GO:0004089	0.0385906890501471	0.999289426059966	1	20	carbonate dehydratase activity	MF	0.9999999999	MF carbonate dehydratase activity	TR15971|c0_g1
+GO:0005217	0.0397209204221977	0.996120155858939	2	59	intracellular ligand-gated ion channel activity	MF	0.9999999999	MF intracellular ligand-gated ion channel activity	TR75526|c0_g1, TR91129|c1_g1
+GO:0004111	0.0406311424918748	0.999213868574821	1	19	creatine kinase activity	MF	0.9999999999	MF creatine kinase activity	TR104374|c2_g1
+GO:0007185	0.0422578387433003	0.999176365238119	1	12	transmembrane receptor protein tyrosine phosphatase signaling pathway	BP	0.9999999999	BP transmembrane receptor protein tyrosine phosphatase signaling pathway	TR72159|c2_g2
+GO:0021531	0.0440806685980688	0.99911924674473	1	10	spinal cord radial glial cell differentiation	BP	0.9999999999	BP spinal cord radial glial cell differentiation	TR87176|c2_g1
+GO:0042661	0.0440806685980688	0.99911924674473	1	10	regulation of mesodermal cell fate specification	BP	0.9999999999	BP regulation of mesodermal cell fate specification	TR87176|c2_g1
+GO:0048337	0.0440806685980688	0.99911924674473	1	10	positive regulation of mesodermal cell fate specification	BP	0.9999999999	BP positive regulation of mesodermal cell fate specification	TR87176|c2_g1
+GO:0055016	0.0440806685980688	0.99911924674473	1	10	hypochord development	BP	0.9999999999	BP hypochord development	TR87176|c2_g1
+GO:0001840	0.0455265870692098	0.99905063987325	1	11	neural plate development	BP	0.9999999999	BP neural plate development	TR87176|c2_g1
+GO:0021523	0.0456937950369229	0.999043592949054	1	11	somatic motor neuron differentiation	BP	0.9999999999	BP somatic motor neuron differentiation	TR87176|c2_g1
+GO:0005262	0.0464774909301334	0.991383725895356	3	203	calcium channel activity	MF	0.9999999999	MF calcium channel activity	TR75526|c0_g1, TR91129|c1_g1, TR94758|c3_g1
+GO:0071468	0.0468784904686979	0.998957898466497	1	17	cellular response to acidic pH	BP	0.9999999999	BP cellular response to acidic pH	TR94758|c3_g1
+GO:0050907	0.0469915573920137	0.998946037872908	1	19	detection of chemical stimulus involved in sensory perception	BP	0.9999999999	BP detection of chemical stimulus involved in sensory perception	TR94758|c3_g1
+GO:0042660	0.0476485052703348	0.998950701589014	1	12	positive regulation of cell fate specification	BP	0.9999999999	BP positive regulation of cell fate specification	TR87176|c2_g1
+GO:0042663	0.0485481264798581	0.998910335889505	1	12	regulation of endodermal cell fate specification	BP	0.9999999999	BP regulation of endodermal cell fate specification	TR87176|c2_g1
+GO:0031095	0.0489177484824682	0.99896433899855	1	7	platelet dense tubular network membrane	CC	0.9999999999	CC platelet dense tubular network membrane	TR91129|c1_g1

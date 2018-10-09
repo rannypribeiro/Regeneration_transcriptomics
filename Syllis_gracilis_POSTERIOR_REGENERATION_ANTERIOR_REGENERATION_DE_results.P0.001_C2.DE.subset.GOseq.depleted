@@ -1,0 +1,269 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0006464	0.99999999429981	1.00985278449595e-08	100	4583	cellular protein modification process	BP	0.9999999999	9.15854081065823e-05	BP cellular protein modification process
+GO:0036211	0.99999999429981	1.00985278449595e-08	100	4583	protein modification process	BP	0.9999999999	9.15854081065823e-05	BP protein modification process
+GO:0043412	0.999999991776879	1.42353362167632e-08	107	4829	macromolecule modification	BP	0.9999999999	9.15854081065823e-05	BP macromolecule modification
+GO:0007165	0.999999318829525	1.01986904701095e-06	160	6455	signal transduction	BP	0.9999999999	0.00417155200600095	BP signal transduction
+GO:0048583	0.999999310939761	1.0806569623338e-06	122	5328	regulation of response to stimulus	BP	0.9999999999	0.00417155200600095	BP regulation of response to stimulus
+GO:0005085	0.999999774231484	3.77446832021892e-06	1	359	guanyl-nucleotide exchange factor activity	MF	0.9999999999	0.0121418355080909	MF guanyl-nucleotide exchange factor activity
+GO:0010646	0.999976313606618	3.54568253079443e-05	111	4457	regulation of cell communication	BP	0.9999999999	0.097764597895519	BP regulation of cell communication
+GO:0043087	0.999988783727081	4.17907564085021e-05	7	540	regulation of GTPase activity	BP	0.9999999999	0.100825423680062	BP regulation of GTPase activity
+GO:0006355	0.999947794259707	7.52401634377574e-05	128	4486	regulation of transcription, DNA-templated	BP	0.9999999999	0.134524059510217	BP regulation of transcription, DNA-templated
+GO:1903506	0.999947513858687	7.55477700980267e-05	129	4510	regulation of nucleic acid-templated transcription	BP	0.9999999999	0.134524059510217	BP regulation of nucleic acid-templated transcription
+GO:2001141	0.999938347542948	8.83589086877678e-05	130	4520	regulation of RNA biosynthetic process	BP	0.9999999999	0.134524059510217	BP regulation of RNA biosynthetic process
+GO:0009966	0.999934475968015	9.89512945149504e-05	93	3850	regulation of signal transduction	BP	0.9999999999	0.134524059510217	BP regulation of signal transduction
+GO:0019787	0.99996259090708	0.000102594600478046	12	833	ubiquitin-like protein transferase activity	MF	0.9999999999	0.134524059510217	MF ubiquitin-like protein transferase activity
+GO:0023051	0.999928712493315	0.000104323950563053	111	4398	regulation of signaling	BP	0.9999999999	0.134524059510217	BP regulation of signaling
+GO:0005096	0.999982025810454	0.000104546960916701	3	320	GTPase activator activity	MF	0.9999999999	0.134524059510217	MF GTPase activator activity
+GO:0030695	0.999972387756193	0.000131750713225973	4	369	GTPase regulator activity	MF	0.9999999999	0.158932532248406	MF GTPase regulator activity
+GO:0004842	0.999929053062564	0.000188682155351287	12	813	ubiquitin-protein transferase activity	MF	0.9999999999	0.2142208400256	MF ubiquitin-protein transferase activity
+GO:0043547	0.99992296608487	0.000278108221833644	6	435	positive regulation of GTPase activity	BP	0.9999999999	0.262674096023075	BP positive regulation of GTPase activity
+GO:0000151	0.999927925426444	0.000284971390790933	5	561	ubiquitin ligase complex	CC	0.9999999999	0.262674096023075	CC ubiquitin ligase complex
+GO:0070647	0.999837602755634	0.000299321412922552	33	1651	protein modification by small protein conjugation or removal	BP	0.9999999999	0.262674096023075	BP protein modification by small protein conjugation or removal
+GO:0050794	0.999756406759763	0.000301258490809235	446	14431	regulation of cellular process	BP	0.9999999999	0.262674096023075	BP regulation of cellular process
+GO:0035556	0.999806215852286	0.000304620764387156	65	2423	intracellular signal transduction	BP	0.9999999999	0.262674096023075	BP intracellular signal transduction
+GO:0060589	0.999920751714523	0.00031301508774316	5	392	nucleoside-triphosphatase regulator activity	MF	0.9999999999	0.262674096023075	MF nucleoside-triphosphatase regulator activity
+GO:0005088	0.99996386730352	0.000416384196457346	1	206	Ras guanyl-nucleotide exchange factor activity	MF	0.9999999999	0.334859640659302	MF Ras guanyl-nucleotide exchange factor activity
+GO:0050789	0.999557246831957	0.000541113862261079	476	15411	regulation of biological process	BP	0.9999999999	0.401719227685673	BP regulation of biological process
+GO:0051056	0.999842867960045	0.000541148122886249	6	471	regulation of small GTPase mediated signal transduction	BP	0.9999999999	0.401719227685673	BP regulation of small GTPase mediated signal transduction
+GO:0016773	0.99960664981954	0.000687502985785466	36	1495	phosphotransferase activity, alcohol group as acceptor	MF	0.9999999999	0.491462782542418	MF phosphotransferase activity, alcohol group as acceptor
+GO:0016567	0.999590624136566	0.000802916350965254	23	1284	protein ubiquitination	BP	0.9999999999	0.52461051208282	BP protein ubiquitination
+GO:0070085	0.999755767875484	0.000813714596850861	6	625	glycosylation	BP	0.9999999999	0.52461051208282	BP glycosylation
+GO:0016740	0.999409527290919	0.00081541450507666	119	4982	transferase activity	MF	0.9999999999	0.52461051208282	MF transferase activity
+GO:0005515	0.999212657161789	0.000970186589341324	352	11304	protein binding	MF	0.9999999999	0.604050689060545	MF protein binding
+GO:0006486	0.999670678813517	0.00107513561127255	6	603	protein glycosylation	BP	0.9999999999	0.628824013126411	BP protein glycosylation
+GO:0043413	0.999670678813517	0.00107513561127255	6	603	macromolecule glycosylation	BP	0.9999999999	0.628824013126411	BP macromolecule glycosylation
+GO:1903034	0.999631357610908	0.00119339572506192	6	633	regulation of response to wounding	BP	0.9999999999	0.634083374924423	BP regulation of response to wounding
+GO:0001071	0.999327280347428	0.00119551828682243	31	1181	nucleic acid binding transcription factor activity	MF	0.9999999999	0.634083374924423	MF nucleic acid binding transcription factor activity
+GO:0003700	0.999327280347428	0.00119551828682243	31	1181	transcription factor activity, sequence-specific DNA binding	MF	0.9999999999	0.634083374924423	MF transcription factor activity, sequence-specific DNA binding
+GO:0048584	0.999207237352059	0.00121553727124002	59	2654	positive regulation of response to stimulus	BP	0.9999999999	0.634083374924423	BP positive regulation of response to stimulus
+GO:0044093	0.999194644263467	0.00128038483559121	49	2043	positive regulation of molecular function	BP	0.9999999999	0.650334413466997	BP positive regulation of molecular function
+GO:0051174	0.999023563343227	0.0014879637810843	59	2383	regulation of phosphorus metabolic process	BP	0.9999999999	0.727990076938279	BP regulation of phosphorus metabolic process
+GO:0009893	0.998885352358166	0.001508709552745	124	4365	positive regulation of metabolic process	BP	0.9999999999	0.727990076938279	BP positive regulation of metabolic process
+GO:0009880	1	0.00169550881324982	0	229	embryonic pattern specification	BP	0.9999999999	0.798171112305728	BP embryonic pattern specification
+GO:0019220	0.998813469369451	0.00179654479980621	59	2370	regulation of phosphate metabolic process	BP	0.9999999999	0.825597885263327	BP regulation of phosphate metabolic process
+GO:0004672	0.998903434463189	0.00189386863472106	32	1252	protein kinase activity	MF	0.9999999999	0.837322084092945	MF protein kinase activity
+GO:0048856	0.998541049972087	0.00190882191078646	156	5683	anatomical structure development	BP	0.9999999999	0.837322084092945	BP anatomical structure development
+GO:0016055	0.999223864819127	0.00223494233788739	7	489	Wnt signaling pathway	BP	0.9999999999	0.948789230309832	BP Wnt signaling pathway
+GO:0035023	0.999763013809711	0.00226717282357265	1	182	regulation of Rho protein signal transduction	BP	0.9999999999	0.948789230309832	BP regulation of Rho protein signal transduction
+GO:0007389	0.998809108081737	0.00231040328607648	20	1130	pattern specification process	BP	0.9999999999	0.948789230309832	BP pattern specification process
+GO:0051272	0.999150256448769	0.00242732078189569	7	554	positive regulation of cellular component movement	BP	0.9999999999	0.965643166888278	BP positive regulation of cellular component movement
+GO:0061245	1	0.00249319209852812	0	171	establishment or maintenance of bipolar cell polarity	BP	0.9999999999	0.965643166888278	BP establishment or maintenance of bipolar cell polarity
+GO:0035088	1	0.0025351324825388	0	170	establishment or maintenance of apical/basal cell polarity	BP	0.9999999999	0.965643166888278	BP establishment or maintenance of apical/basal cell polarity
+GO:0007600	0.998958397268833	0.00255156735460868	10	668	sensory perception	BP	0.9999999999	0.965643166888278	BP sensory perception
+GO:0006357	0.998124607102638	0.00275878153939716	64	2251	regulation of transcription from RNA polymerase II promoter	BP	0.9999999999	0.9999999999	BP regulation of transcription from RNA polymerase II promoter
+GO:0009888	0.998265485585547	0.00302657128355403	28	1324	tissue development	BP	0.9999999999	0.9999999999	BP tissue development
+GO:0008047	0.998706579349284	0.00302853665594313	11	533	enzyme activator activity	MF	0.9999999999	0.9999999999	MF enzyme activator activity
+GO:0009653	0.997841265774647	0.00303193199043515	83	3184	anatomical structure morphogenesis	BP	0.9999999999	0.9999999999	BP anatomical structure morphogenesis
+GO:0005769	0.998971186258971	0.00309288405680843	6	505	early endosome	CC	0.9999999999	0.9999999999	CC early endosome
+GO:0031399	0.997878448667911	0.00319955029870823	54	2096	regulation of protein modification process	BP	0.9999999999	0.9999999999	BP regulation of protein modification process
+GO:0051336	0.998051160440603	0.00323570963716147	34	1431	regulation of hydrolase activity	BP	0.9999999999	0.9999999999	BP regulation of hydrolase activity
+GO:0031461	0.999199800132271	0.0034275232021524	3	390	cullin-RING ubiquitin ligase complex	CC	0.9999999999	0.9999999999	CC cullin-RING ubiquitin ligase complex
+GO:0010562	0.997984572691472	0.00346536000423198	29	1244	positive regulation of phosphorus metabolic process	BP	0.9999999999	0.9999999999	BP positive regulation of phosphorus metabolic process
+GO:0045937	0.997984572691472	0.00346536000423198	29	1244	positive regulation of phosphate metabolic process	BP	0.9999999999	0.9999999999	BP positive regulation of phosphate metabolic process
+GO:0065007	0.99702997741903	0.00351247080031715	518	16616	biological regulation	BP	0.9999999999	0.9999999999	BP biological regulation
+GO:0097659	0.997333206877489	0.00366476763211452	93	2997	nucleic acid-templated transcription	BP	0.9999999999	0.9999999999	BP nucleic acid-templated transcription
+GO:0006351	0.997294840277287	0.00371592053895143	93	2995	transcription, DNA-templated	BP	0.9999999999	0.9999999999	BP transcription, DNA-templated
+GO:0003712	0.998283388936485	0.00394163313699266	11	570	transcription cofactor activity	MF	0.9999999999	0.9999999999	MF transcription cofactor activity
+GO:2000026	0.997082562709194	0.00413732765676491	73	2867	regulation of multicellular organismal development	BP	0.9999999999	0.9999999999	BP regulation of multicellular organismal development
+GO:0051252	0.996745556192287	0.00420013790726723	149	4690	regulation of RNA metabolic process	BP	0.9999999999	0.9999999999	BP regulation of RNA metabolic process
+GO:0042325	0.99720669731362	0.00421190902924602	51	2068	regulation of phosphorylation	BP	0.9999999999	0.9999999999	BP regulation of phosphorylation
+GO:0065009	0.996783107446909	0.00437418511365173	96	3557	regulation of molecular function	BP	0.9999999999	0.9999999999	BP regulation of molecular function
+GO:0043565	0.997419409772423	0.00438894196900556	29	1128	sequence-specific DNA binding	MF	0.9999999999	0.9999999999	MF sequence-specific DNA binding
+GO:0060759	1	0.00451910265684214	0	193	regulation of response to cytokine stimulus	BP	0.9999999999	0.9999999999	BP regulation of response to cytokine stimulus
+GO:0048518	0.996159251174295	0.00475107976756352	224	7429	positive regulation of biological process	BP	0.9999999999	0.9999999999	BP positive regulation of biological process
+GO:0051239	0.996268214228158	0.00495913274464222	111	4190	regulation of multicellular organismal process	BP	0.9999999999	0.9999999999	BP regulation of multicellular organismal process
+GO:0032446	0.996946281679105	0.00506776722073041	31	1430	protein modification by small protein conjugation	BP	0.9999999999	0.9999999999	BP protein modification by small protein conjugation
+GO:0045197	1	0.00533517968946251	0	145	establishment or maintenance of epithelial cell apical/basal polarity	BP	0.9999999999	0.9999999999	BP establishment or maintenance of epithelial cell apical/basal polarity
+GO:0080134	0.996363775846298	0.00552650290083472	46	2062	regulation of response to stress	BP	0.9999999999	0.9999999999	BP regulation of response to stress
+GO:0032502	0.995231745405497	0.00578488546728598	272	9272	developmental process	BP	0.9999999999	0.9999999999	BP developmental process
+GO:0001012	0.997462265192347	0.00586603667477778	10	493	RNA polymerase II regulatory region DNA binding	MF	0.9999999999	0.9999999999	MF RNA polymerase II regulatory region DNA binding
+GO:0032774	0.995223250912164	0.00637283854864168	102	3232	RNA biosynthetic process	BP	0.9999999999	0.9999999999	BP RNA biosynthetic process
+GO:0007166	0.99521618286915	0.00647039226467677	91	3515	cell surface receptor signaling pathway	BP	0.9999999999	0.9999999999	BP cell surface receptor signaling pathway
+GO:0005667	0.99810477332483	0.006504506775147	4	326	transcription factor complex	CC	0.9999999999	0.9999999999	CC transcription factor complex
+GO:0050790	0.995233163621293	0.00658665154601241	78	2910	regulation of catalytic activity	BP	0.9999999999	0.9999999999	BP regulation of catalytic activity
+GO:0001959	1	0.00688598725518231	0	187	regulation of cytokine-mediated signaling pathway	BP	0.9999999999	0.9999999999	BP regulation of cytokine-mediated signaling pathway
+GO:0000977	0.99692677542006	0.00700639285174893	10	485	RNA polymerase II regulatory region sequence-specific DNA binding	MF	0.9999999999	0.9999999999	MF RNA polymerase II regulatory region sequence-specific DNA binding
+GO:0018205	0.99768403866723	0.007062056152505	5	337	peptidyl-lysine modification	BP	0.9999999999	0.9999999999	BP peptidyl-lysine modification
+GO:0008589	1	0.00721200366961354	0	123	regulation of smoothened signaling pathway	BP	0.9999999999	0.9999999999	BP regulation of smoothened signaling pathway
+GO:0040017	0.996907912985542	0.00728306831060293	9	631	positive regulation of locomotion	BP	0.9999999999	0.9999999999	BP positive regulation of locomotion
+GO:0016757	0.997013973156601	0.00734938102870782	8	671	transferase activity, transferring glycosyl groups	MF	0.9999999999	0.9999999999	MF transferase activity, transferring glycosyl groups
+GO:0060090	0.998127029904964	0.007399784135922	3	293	binding, bridging	MF	0.9999999999	0.9999999999	MF binding, bridging
+GO:0016772	0.994972587820303	0.00740918148596756	51	1961	transferase activity, transferring phosphorus-containing groups	MF	0.9999999999	0.9999999999	MF transferase activity, transferring phosphorus-containing groups
+GO:0046488	0.999088700303933	0.00743114816148091	1	182	phosphatidylinositol metabolic process	BP	0.9999999999	0.9999999999	BP phosphatidylinositol metabolic process
+GO:0044441	0.996233107058619	0.00795872761292346	12	638	ciliary part	CC	0.9999999999	0.9999999999	CC ciliary part
+GO:0016301	0.99464809039049	0.00807653794715132	44	1650	kinase activity	MF	0.9999999999	0.9999999999	MF kinase activity
+GO:0016568	0.995166171265451	0.00832934143146977	24	859	NA	NA	0.9999999999	0.9999999999	none
+GO:0007178	0.997851768341534	0.00837345604748054	3	274	transmembrane receptor protein serine/threonine kinase signaling pathway	BP	0.9999999999	0.9999999999	BP transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0050772	1	0.00843267157000474	0	115	positive regulation of axonogenesis	BP	0.9999999999	0.9999999999	BP positive regulation of axonogenesis
+GO:0019219	0.993225173191793	0.00848616993522184	167	5108	regulation of nucleobase-containing compound metabolic process	BP	0.9999999999	0.9999999999	BP regulation of nucleobase-containing compound metabolic process
+GO:0006935	0.997321918191434	0.00884989368074223	4	482	chemotaxis	BP	0.9999999999	0.9999999999	BP chemotaxis
+GO:2000147	0.996494833392705	0.0089639860671475	7	515	positive regulation of cell motility	BP	0.9999999999	0.9999999999	BP positive regulation of cell motility
+GO:0007606	1	0.00934368966171621	0	150	sensory perception of chemical stimulus	BP	0.9999999999	0.9999999999	BP sensory perception of chemical stimulus
+GO:1902531	0.993334525708466	0.00945827625989729	60	2326	regulation of intracellular signal transduction	BP	0.9999999999	0.9999999999	BP regulation of intracellular signal transduction
+GO:0030031	0.995636446526132	0.00967951788969738	10	527	cell projection assembly	BP	0.9999999999	0.9999999999	BP cell projection assembly
+GO:0046578	0.99640320456503	0.00976756895208216	6	377	regulation of Ras protein signal transduction	BP	0.9999999999	0.9999999999	BP regulation of Ras protein signal transduction
+GO:0019222	0.991781454815915	0.00980504932051456	296	9091	regulation of metabolic process	BP	0.9999999999	0.9999999999	BP regulation of metabolic process
+GO:0006468	0.993467007841243	0.0102120643542397	35	1165	protein phosphorylation	BP	0.9999999999	0.9999999999	BP protein phosphorylation
+GO:0042327	0.993810323442083	0.0102289293625463	27	1106	positive regulation of phosphorylation	BP	0.9999999999	0.9999999999	BP positive regulation of phosphorylation
+GO:0031325	0.991878279490338	0.0105732823340752	109	3636	positive regulation of cellular metabolic process	BP	0.9999999999	0.9999999999	BP positive regulation of cellular metabolic process
+GO:0042330	0.996329802867056	0.0106707202637443	5	521	taxis	BP	0.9999999999	0.9999999999	BP taxis
+GO:2000145	0.993889313129359	0.0106985008718939	21	1076	regulation of cell motility	BP	0.9999999999	0.9999999999	BP regulation of cell motility
+GO:0030335	0.995690849388501	0.010827599037616	7	508	positive regulation of cell migration	BP	0.9999999999	0.9999999999	BP positive regulation of cell migration
+GO:0036459	0.997728125386418	0.0109444616890043	2	169	thiol-dependent ubiquitinyl hydrolase activity	MF	0.9999999999	0.9999999999	MF thiol-dependent ubiquitinyl hydrolase activity
+GO:0010634	1	0.0110384605079357	0	132	positive regulation of epithelial cell migration	BP	0.9999999999	0.9999999999	BP positive regulation of epithelial cell migration
+GO:0007179	0.998531592980446	0.0112560564875212	1	170	transforming growth factor beta receptor signaling pathway	BP	0.9999999999	0.9999999999	BP transforming growth factor beta receptor signaling pathway
+GO:0030030	0.992318542872545	0.0113564043876655	45	1856	cell projection organization	BP	0.9999999999	0.9999999999	BP cell projection organization
+GO:0005089	0.998453554880393	0.011823330839645	1	134	Rho guanyl-nucleotide exchange factor activity	MF	0.9999999999	0.9999999999	MF Rho guanyl-nucleotide exchange factor activity
+GO:0051270	0.992639853409618	0.0121365477794845	26	1231	regulation of cellular component movement	BP	0.9999999999	0.9999999999	BP regulation of cellular component movement
+GO:0008270	0.991193337045751	0.0122734485998815	63	2289	zinc ion binding	MF	0.9999999999	0.9999999999	MF zinc ion binding
+GO:0000988	0.993515744625792	0.0123640325440646	15	666	transcription factor activity, protein binding	MF	0.9999999999	0.9999999999	MF transcription factor activity, protein binding
+GO:0004871	0.99166040383046	0.0123772320040917	43	1890	signal transducer activity	MF	0.9999999999	0.9999999999	MF signal transducer activity
+GO:0043401	1	0.0126963014680392	0	113	steroid hormone mediated signaling pathway	BP	0.9999999999	0.9999999999	BP steroid hormone mediated signaling pathway
+GO:0070160	0.996583507858553	0.0126970080316075	3	223	occluding junction	CC	0.9999999999	0.9999999999	CC occluding junction
+GO:0070646	0.996573299001773	0.0127227026974148	3	232	protein modification by small protein removal	BP	0.9999999999	0.9999999999	BP protein modification by small protein removal
+GO:0010522	1	0.0127725158587563	0	105	regulation of calcium ion transport into cytosol	BP	0.9999999999	0.9999999999	BP regulation of calcium ion transport into cytosol
+GO:0000989	0.9931152997332	0.0130739537683821	15	662	transcription factor activity, transcription factor binding	MF	0.9999999999	0.9999999999	MF transcription factor activity, transcription factor binding
+GO:0050727	0.996421215166258	0.0131357978131299	3	406	regulation of inflammatory response	BP	0.9999999999	0.9999999999	BP regulation of inflammatory response
+GO:0016570	0.992999865182974	0.0138361717860014	13	546	histone modification	BP	0.9999999999	0.9999999999	BP histone modification
+GO:0006937	1	0.0138508307241826	0	132	regulation of muscle contraction	BP	0.9999999999	0.9999999999	BP regulation of muscle contraction
+GO:0043410	0.993653650614025	0.0141332027010008	9	545	positive regulation of MAPK cascade	BP	0.9999999999	0.9999999999	BP positive regulation of MAPK cascade
+GO:0004674	0.991315710105694	0.014464764213252	24	894	protein serine/threonine kinase activity	MF	0.9999999999	0.9999999999	MF protein serine/threonine kinase activity
+GO:0048813	0.996786046236801	0.0147541627003502	2	236	dendrite morphogenesis	BP	0.9999999999	0.9999999999	BP dendrite morphogenesis
+GO:0003707	1	0.0150243341839806	0	117	steroid hormone receptor activity	MF	0.9999999999	0.9999999999	MF steroid hormone receptor activity
+GO:1903825	0.99792202966475	0.01508787782898	1	271	organic acid transmembrane transport	BP	0.9999999999	0.9999999999	BP organic acid transmembrane transport
+GO:0030425	0.992476915171144	0.0151015448447534	12	672	dendrite	CC	0.9999999999	0.9999999999	CC dendrite
+GO:0043085	0.989566733910999	0.0152769089578069	44	1640	positive regulation of catalytic activity	BP	0.9999999999	0.9999999999	BP positive regulation of catalytic activity
+GO:0032874	0.997898381886012	0.0153316759219071	1	165	positive regulation of stress-activated MAPK cascade	BP	0.9999999999	0.9999999999	BP positive regulation of stress-activated MAPK cascade
+GO:0070304	0.997898381886012	0.0153316759219071	1	165	positive regulation of stress-activated protein kinase signaling cascade	BP	0.9999999999	0.9999999999	BP positive regulation of stress-activated protein kinase signaling cascade
+GO:0031401	0.990123412257739	0.0153715045524377	32	1198	positive regulation of protein modification process	BP	0.9999999999	0.9999999999	BP positive regulation of protein modification process
+GO:0080135	0.991082441553564	0.0154496916638862	20	893	regulation of cellular response to stress	BP	0.9999999999	0.9999999999	BP regulation of cellular response to stress
+GO:0051345	0.991013860352503	0.0155686909036687	20	838	positive regulation of hydrolase activity	BP	0.9999999999	0.9999999999	BP positive regulation of hydrolase activity
+GO:0005923	0.996559242563224	0.0157396646866131	2	170	bicellular tight junction	CC	0.9999999999	0.9999999999	CC bicellular tight junction
+GO:0048145	1	0.0158231791064233	0	134	regulation of fibroblast proliferation	BP	0.9999999999	0.9999999999	BP regulation of fibroblast proliferation
+GO:0032101	0.990025565996633	0.0160276569325135	27	1402	regulation of response to external stimulus	BP	0.9999999999	0.9999999999	BP regulation of response to external stimulus
+GO:0061659	0.994259169116493	0.016040497621331	5	336	ubiquitin-like protein ligase activity	MF	0.9999999999	0.9999999999	MF ubiquitin-like protein ligase activity
+GO:0000982	0.994842855384338	0.0160449724477358	4	249	transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding	MF	0.9999999999	0.9999999999	MF transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding
+GO:0060070	1	0.0163366159999084	0	128	canonical Wnt signaling pathway	BP	0.9999999999	0.9999999999	BP canonical Wnt signaling pathway
+GO:0030334	0.990329234747749	0.016464968390648	21	1037	regulation of cell migration	BP	0.9999999999	0.9999999999	BP regulation of cell migration
+GO:0003002	0.991236626524621	0.0169916065243903	13	711	regionalization	BP	0.9999999999	0.9999999999	BP regionalization
+GO:0061630	0.99375396280188	0.0173031849276752	5	334	ubiquitin protein ligase activity	MF	0.9999999999	0.9999999999	MF ubiquitin protein ligase activity
+GO:0030674	0.994982928032069	0.0177917474996801	3	265	protein binding, bridging	MF	0.9999999999	0.9999999999	MF protein binding, bridging
+GO:0030507	1	0.0179212949346875	0	114	spectrin binding	MF	0.9999999999	0.9999999999	MF spectrin binding
+GO:0032088	1	0.0186016228579584	0	140	negative regulation of NF-kappaB transcription factor activity	BP	0.9999999999	0.9999999999	BP negative regulation of NF-kappaB transcription factor activity
+GO:0040012	0.988226008469543	0.0187497741741457	27	1266	regulation of locomotion	BP	0.9999999999	0.9999999999	BP regulation of locomotion
+GO:0048585	0.986645228710033	0.0188659056615783	51	2108	negative regulation of response to stimulus	BP	0.9999999999	0.9999999999	BP negative regulation of response to stimulus
+GO:0016310	0.986684777700155	0.0192157849270015	45	1462	phosphorylation	BP	0.9999999999	0.9999999999	BP phosphorylation
+GO:0005768	0.988188884986074	0.0194475863387237	23	1187	endosome	CC	0.9999999999	0.9999999999	CC endosome
+GO:0031323	0.983555560359586	0.0194620033724405	262	7918	regulation of cellular metabolic process	BP	0.9999999999	0.9999999999	BP regulation of cellular metabolic process
+GO:0044767	0.983501125015054	0.0195118918743355	264	8677	single-organism developmental process	BP	0.9999999999	0.9999999999	BP single-organism developmental process
+GO:0048522	0.983742125364326	0.0195891348721157	202	6473	positive regulation of cellular process	BP	0.9999999999	0.9999999999	BP positive regulation of cellular process
+GO:0090174	1	0.0197835458150661	0	138	organelle membrane fusion	BP	0.9999999999	0.9999999999	BP organelle membrane fusion
+GO:0005911	0.987756011897231	0.0203512397055416	22	866	cell-cell junction	CC	0.9999999999	0.9999999999	CC cell-cell junction
+GO:0051090	0.990876483405122	0.0204795853610511	8	482	regulation of sequence-specific DNA binding transcription factor activity	BP	0.9999999999	0.9999999999	BP regulation of sequence-specific DNA binding transcription factor activity
+GO:0048519	0.982527297170205	0.0209825394022049	206	6601	negative regulation of biological process	BP	0.9999999999	0.9999999999	BP negative regulation of biological process
+GO:0016579	0.993914054978214	0.0211673236950078	3	203	protein deubiquitination	BP	0.9999999999	0.9999999999	BP protein deubiquitination
+GO:0001936	1	0.0212689643361864	0	103	regulation of endothelial cell proliferation	BP	0.9999999999	0.9999999999	BP regulation of endothelial cell proliferation
+GO:0016763	0.996898687844672	0.0213516760366499	1	174	transferase activity, transferring pentosyl groups	MF	0.9999999999	0.9999999999	MF transferase activity, transferring pentosyl groups
+GO:0032103	0.991351693516483	0.0215439769239241	6	500	positive regulation of response to external stimulus	BP	0.9999999999	0.9999999999	BP positive regulation of response to external stimulus
+GO:0045669	1	0.0215782267968198	0	104	positive regulation of osteoblast differentiation	BP	0.9999999999	0.9999999999	BP positive regulation of osteoblast differentiation
+GO:0042476	1	0.0216249364429475	0	132	odontogenesis	BP	0.9999999999	0.9999999999	BP odontogenesis
+GO:0001932	0.984917739434097	0.0217733726730477	43	1660	regulation of protein phosphorylation	BP	0.9999999999	0.9999999999	BP regulation of protein phosphorylation
+GO:0010604	0.982840186732285	0.0218452844452216	107	3482	positive regulation of macromolecule metabolic process	BP	0.9999999999	0.9999999999	BP positive regulation of macromolecule metabolic process
+GO:0001227	0.996790973051033	0.0220818726214104	1	131	transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding	MF	0.9999999999	0.9999999999	MF transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding
+GO:0016569	0.988040098856956	0.0222515437010797	14	554	covalent chromatin modification	BP	0.9999999999	0.9999999999	BP covalent chromatin modification
+GO:0060021	1	0.0223727423635546	0	113	palate development	BP	0.9999999999	0.9999999999	BP palate development
+GO:0098900	1	0.0226650644303508	0	117	regulation of action potential	BP	0.9999999999	0.9999999999	BP regulation of action potential
+GO:0060606	0.996610376920694	0.0230682101972216	1	153	tube closure	BP	0.9999999999	0.9999999999	BP tube closure
+GO:0010923	0.996596393594884	0.0232933216270572	1	110	negative regulation of phosphatase activity	BP	0.9999999999	0.9999999999	BP negative regulation of phosphatase activity
+GO:0001843	0.996550884812264	0.0234154801559709	1	151	neural tube closure	BP	0.9999999999	0.9999999999	BP neural tube closure
+GO:0005815	0.985079602607389	0.0234530662161045	27	1071	microtubule organizing center	CC	0.9999999999	0.9999999999	CC microtubule organizing center
+GO:0016782	1	0.0236617266362987	0	210	transferase activity, transferring sulfur-containing groups	MF	0.9999999999	0.9999999999	MF transferase activity, transferring sulfur-containing groups
+GO:0000981	0.986915856362584	0.0241947964859183	14	511	RNA polymerase II transcription factor activity, sequence-specific DNA binding	MF	0.9999999999	0.9999999999	MF RNA polymerase II transcription factor activity, sequence-specific DNA binding
+GO:0038023	0.983855349713163	0.0245595424159389	31	1559	signaling receptor activity	MF	0.9999999999	0.9999999999	MF signaling receptor activity
+GO:0008285	0.985489782924328	0.0246218720873409	19	909	negative regulation of cell proliferation	BP	0.9999999999	0.9999999999	BP negative regulation of cell proliferation
+GO:0051492	1	0.0246981438197618	0	74	regulation of stress fiber assembly	BP	0.9999999999	0.9999999999	BP regulation of stress fiber assembly
+GO:0044463	0.982335793637494	0.0247139373153601	50	1922	cell projection part	CC	0.9999999999	0.9999999999	CC cell projection part
+GO:0004843	0.994031181124506	0.025454637669164	2	144	thiol-dependent ubiquitin-specific protease activity	MF	0.9999999999	0.9999999999	MF thiol-dependent ubiquitin-specific protease activity
+GO:0070372	0.993772062625946	0.0262173305180067	2	228	regulation of ERK1 and ERK2 cascade	BP	0.9999999999	0.9999999999	BP regulation of ERK1 and ERK2 cascade
+GO:0031214	1	0.0262360155958104	0	105	biomineral tissue development	BP	0.9999999999	0.9999999999	BP biomineral tissue development
+GO:0000978	0.990983731341532	0.0263470244550156	4	242	RNA polymerase II core promoter proximal region sequence-specific DNA binding	MF	0.9999999999	0.9999999999	MF RNA polymerase II core promoter proximal region sequence-specific DNA binding
+GO:0032879	0.979239333408876	0.0264347289592065	100	3424	regulation of localization	BP	0.9999999999	0.9999999999	BP regulation of localization
+GO:0001933	0.98665934655757	0.0269759636126444	10	558	negative regulation of protein phosphorylation	BP	0.9999999999	0.9999999999	BP negative regulation of protein phosphorylation
+GO:0006906	1	0.0271034044551896	0	126	vesicle fusion	BP	0.9999999999	0.9999999999	BP vesicle fusion
+GO:0009967	0.980436471646276	0.0274864924481199	47	1879	positive regulation of signal transduction	BP	0.9999999999	0.9999999999	BP positive regulation of signal transduction
+GO:0042733	1	0.0275850265761414	0	115	embryonic digit morphogenesis	BP	0.9999999999	0.9999999999	BP embryonic digit morphogenesis
+GO:0051091	0.991485697594285	0.0282907788368346	3	269	positive regulation of sequence-specific DNA binding transcription factor activity	BP	0.9999999999	0.9999999999	BP positive regulation of sequence-specific DNA binding transcription factor activity
+GO:0050793	0.977476257406395	0.0282934725163598	111	3777	regulation of developmental process	BP	0.9999999999	0.9999999999	BP regulation of developmental process
+GO:1901214	0.986845532193683	0.0285476368136224	8	453	regulation of neuron death	BP	0.9999999999	0.9999999999	BP regulation of neuron death
+GO:0042127	0.979302042716717	0.0290014958827222	47	1844	regulation of cell proliferation	BP	0.9999999999	0.9999999999	BP regulation of cell proliferation
+GO:0008194	0.991134089410996	0.0292656848072727	3	308	UDP-glycosyltransferase activity	MF	0.9999999999	0.9999999999	MF UDP-glycosyltransferase activity
+GO:0007224	0.995414918715738	0.0297325677683448	1	164	smoothened signaling pathway	BP	0.9999999999	0.9999999999	BP smoothened signaling pathway
+GO:0050954	0.989389697545986	0.0303838329764733	4	259	sensory perception of mechanical stimulus	BP	0.9999999999	0.9999999999	BP sensory perception of mechanical stimulus
+GO:0044325	0.99258464713407	0.030543981177331	2	186	ion channel binding	MF	0.9999999999	0.9999999999	MF ion channel binding
+GO:0030111	0.984550617692547	0.0308464540999676	10	528	regulation of Wnt signaling pathway	BP	0.9999999999	0.9999999999	BP regulation of Wnt signaling pathway
+GO:0051279	1	0.030924659387893	0	82	regulation of release of sequestered calcium ion into cytosol	BP	0.9999999999	0.9999999999	BP regulation of release of sequestered calcium ion into cytosol
+GO:0010921	0.990547981143736	0.0311282464309737	3	191	regulation of phosphatase activity	BP	0.9999999999	0.9999999999	BP regulation of phosphatase activity
+GO:0018193	0.978450808261838	0.031613415875758	35	1226	peptidyl-amino acid modification	BP	0.9999999999	0.9999999999	BP peptidyl-amino acid modification
+GO:0007605	0.988754475790489	0.0319888990474508	4	252	sensory perception of sound	BP	0.9999999999	0.9999999999	BP sensory perception of sound
+GO:0050680	0.992148934135638	0.0320688976125235	2	189	negative regulation of epithelial cell proliferation	BP	0.9999999999	0.9999999999	BP negative regulation of epithelial cell proliferation
+GO:0007155	0.97577587455769	0.0326101860075675	59	2453	cell adhesion	BP	0.9999999999	0.9999999999	BP cell adhesion
+GO:0009755	0.991919897256045	0.0328910935324217	2	180	hormone-mediated signaling pathway	BP	0.9999999999	0.9999999999	BP hormone-mediated signaling pathway
+GO:0050877	0.977310097440348	0.0335088103092239	33	1263	neurological system process	BP	0.9999999999	0.9999999999	BP neurological system process
+GO:0046330	0.994722602950076	0.0335264149705421	1	141	positive regulation of JNK cascade	BP	0.9999999999	0.9999999999	BP positive regulation of JNK cascade
+GO:0002521	0.985805693776771	0.033707040657048	6	332	leukocyte differentiation	BP	0.9999999999	0.9999999999	BP leukocyte differentiation
+GO:0000578	1	0.0337134002636322	0	108	embryonic axis specification	BP	0.9999999999	0.9999999999	BP embryonic axis specification
+GO:0030672	1	0.0343873772648839	0	124	synaptic vesicle membrane	CC	0.9999999999	0.9999999999	CC synaptic vesicle membrane
+GO:0072089	1	0.0346400459881864	0	98	stem cell proliferation	BP	0.9999999999	0.9999999999	BP stem cell proliferation
+GO:0022610	0.973635776859155	0.0352739466492643	60	2496	biological adhesion	BP	0.9999999999	0.9999999999	BP biological adhesion
+GO:0004713	0.983274385465193	0.0355557813526579	8	342	protein tyrosine kinase activity	MF	0.9999999999	0.9999999999	MF protein tyrosine kinase activity
+GO:0045778	0.994169714269181	0.0364589088048382	1	135	positive regulation of ossification	BP	0.9999999999	0.9999999999	BP positive regulation of ossification
+GO:0001508	0.994048331552783	0.0369976154629099	1	160	action potential	BP	0.9999999999	0.9999999999	BP action potential
+GO:0045893	0.972343715249237	0.0377782919169975	51	1643	positive regulation of transcription, DNA-templated	BP	0.9999999999	0.9999999999	BP positive regulation of transcription, DNA-templated
+GO:1903508	0.972343715249237	0.0377782919169975	51	1643	positive regulation of nucleic acid-templated transcription	BP	0.9999999999	0.9999999999	BP positive regulation of nucleic acid-templated transcription
+GO:0043271	0.993874420138449	0.0378578246904803	1	173	negative regulation of ion transport	BP	0.9999999999	0.9999999999	BP negative regulation of ion transport
+GO:0030027	0.98194934710346	0.038059450236266	8	357	lamellipodium	CC	0.9999999999	0.9999999999	CC lamellipodium
+GO:0032844	0.978497894901195	0.0388491333201817	13	581	regulation of homeostatic process	BP	0.9999999999	0.9999999999	BP regulation of homeostatic process
+GO:0010595	1	0.0391888253635639	0	95	positive regulation of endothelial cell migration	BP	0.9999999999	0.9999999999	BP positive regulation of endothelial cell migration
+GO:0098562	1	0.0392632010726607	0	85	cytoplasmic side of membrane	CC	0.9999999999	0.9999999999	CC cytoplasmic side of membrane
+GO:0098901	1	0.0398134431323572	0	89	regulation of cardiac muscle cell action potential	BP	0.9999999999	0.9999999999	BP regulation of cardiac muscle cell action potential
+GO:0048646	0.970069910294953	0.0402781308777345	55	2051	anatomical structure formation involved in morphogenesis	BP	0.9999999999	0.9999999999	BP anatomical structure formation involved in morphogenesis
+GO:0001704	1	0.0405945382830379	0	76	formation of primary germ layer	BP	0.9999999999	0.9999999999	BP formation of primary germ layer
+GO:0030307	0.989635611193356	0.0406704693203164	2	181	positive regulation of cell growth	BP	0.9999999999	0.9999999999	BP positive regulation of cell growth
+GO:0051099	0.993285381724693	0.040969565573268	1	142	positive regulation of binding	BP	0.9999999999	0.9999999999	BP positive regulation of binding
+GO:0005261	0.976215623161824	0.0411096345119319	15	708	cation channel activity	MF	0.9999999999	0.9999999999	MF cation channel activity
+GO:0044707	0.965659770676904	0.0411399973336218	163	5508	single-multicellular organism process	BP	0.9999999999	0.9999999999	BP single-multicellular organism process
+GO:0004715	0.993205885319457	0.0417050485403362	1	92	non-membrane spanning protein tyrosine kinase activity	MF	0.9999999999	0.9999999999	MF non-membrane spanning protein tyrosine kinase activity
+GO:0000139	0.972774559341333	0.0417646129080983	25	1158	Golgi membrane	CC	0.9999999999	0.9999999999	CC Golgi membrane
+GO:0044456	0.971820930464694	0.0419915236548378	29	1201	synapse part	CC	0.9999999999	0.9999999999	CC synapse part
+GO:0005887	0.969241162038834	0.0428960069611793	42	1963	integral component of plasma membrane	CC	0.9999999999	0.9999999999	CC integral component of plasma membrane
+GO:0005126	0.992831694155865	0.0433364763190494	1	125	cytokine receptor binding	MF	0.9999999999	0.9999999999	MF cytokine receptor binding
+GO:0042074	1	0.0436155090528077	0	85	cell migration involved in gastrulation	BP	0.9999999999	0.9999999999	BP cell migration involved in gastrulation
+GO:0032501	0.96339026843285	0.0436910487389676	167	5636	multicellular organismal process	BP	0.9999999999	0.9999999999	BP multicellular organismal process
+GO:0051171	0.962721902765191	0.0441736858745881	184	5375	regulation of nitrogen compound metabolic process	BP	0.9999999999	0.9999999999	BP regulation of nitrogen compound metabolic process
+GO:0051928	0.99261753350897	0.0442911808363518	1	148	positive regulation of calcium ion transport	BP	0.9999999999	0.9999999999	BP positive regulation of calcium ion transport
+GO:0002039	0.992636289654236	0.0444420578170317	1	106	p53 binding	MF	0.9999999999	0.9999999999	MF p53 binding
+GO:0043408	0.971850577581191	0.044609662228549	21	890	regulation of MAPK cascade	BP	0.9999999999	0.9999999999	BP regulation of MAPK cascade
+GO:0051346	0.975858399559424	0.0450816210650742	11	518	negative regulation of hydrolase activity	BP	0.9999999999	0.9999999999	BP negative regulation of hydrolase activity
+GO:2000021	0.9816220948626	0.0452371367708583	5	278	regulation of ion homeostasis	BP	0.9999999999	0.9999999999	BP regulation of ion homeostasis
+GO:0060761	1	0.0455278070651181	0	132	negative regulation of response to cytokine stimulus	BP	0.9999999999	0.9999999999	BP negative regulation of response to cytokine stimulus
+GO:0044782	0.978909618161103	0.0455395332802	7	386	cilium organization	BP	0.9999999999	0.9999999999	BP cilium organization
+GO:0000149	0.992318963715926	0.0457886214036921	1	143	SNARE binding	MF	0.9999999999	0.9999999999	MF SNARE binding
+GO:0030522	0.982808958589263	0.0464135399601728	4	233	intracellular receptor signaling pathway	BP	0.9999999999	0.9999999999	BP intracellular receptor signaling pathway
+GO:0042475	1	0.0466066929755676	0	107	odontogenesis of dentin-containing tooth	BP	0.9999999999	0.9999999999	BP odontogenesis of dentin-containing tooth
+GO:0006942	1	0.0471863965358609	0	82	regulation of striated muscle contraction	BP	0.9999999999	0.9999999999	BP regulation of striated muscle contraction
+GO:0000976	0.971502984795726	0.0472578574617191	17	604	transcription regulatory region sequence-specific DNA binding	MF	0.9999999999	0.9999999999	MF transcription regulatory region sequence-specific DNA binding
+GO:0048513	0.962897501015211	0.0473375884218071	79	2804	animal organ development	BP	0.9999999999	0.9999999999	BP animal organ development
+GO:0007632	1	0.0474735027321473	0	69	visual behavior	BP	0.9999999999	0.9999999999	BP visual behavior
+GO:0002164	1	0.0475744812905214	0	79	larval development	BP	0.9999999999	0.9999999999	BP larval development
+GO:0008146	1	0.0476757846734085	0	169	sulfotransferase activity	MF	0.9999999999	0.9999999999	MF sulfotransferase activity
+GO:0043507	1	0.0479559969947612	0	71	positive regulation of JUN kinase activity	BP	0.9999999999	0.9999999999	BP positive regulation of JUN kinase activity
+GO:0060089	0.963459368086661	0.0480425068251054	61	2454	molecular transducer activity	MF	0.9999999999	0.9999999999	MF molecular transducer activity
+GO:0048193	0.973415095590526	0.0481307976454664	12	513	Golgi vesicle transport	BP	0.9999999999	0.9999999999	BP Golgi vesicle transport
+GO:0010332	1	0.048334085940689	0	94	response to gamma radiation	BP	0.9999999999	0.9999999999	BP response to gamma radiation
+GO:0042542	0.991797606199516	0.0483884107701473	1	133	response to hydrogen peroxide	BP	0.9999999999	0.9999999999	BP response to hydrogen peroxide
+GO:0072372	0.978361206373941	0.0490209831971723	6	324	NA	NA	0.9999999999	0.9999999999	none
+GO:0031226	0.964294813186745	0.0490525352519009	44	2025	intrinsic component of plasma membrane	CC	0.9999999999	0.9999999999	CC intrinsic component of plasma membrane
+GO:0006325	0.96632652753689	0.0491279145938736	31	949	chromatin organization	BP	0.9999999999	0.9999999999	BP chromatin organization
+GO:0045746	1	0.049368618713319	0	72	negative regulation of Notch signaling pathway	BP	0.9999999999	0.9999999999	BP negative regulation of Notch signaling pathway
+GO:0016758	0.977859295836366	0.0498609594067975	6	475	transferase activity, transferring hexosyl groups	MF	0.9999999999	0.9999999999	MF transferase activity, transferring hexosyl groups
+GO:0051924	0.981293058663054	0.0499116130759072	4	249	regulation of calcium ion transport	BP	0.9999999999	0.9999999999	BP regulation of calcium ion transport
