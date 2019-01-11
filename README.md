@@ -7,5 +7,6 @@ This repository contains resources from Ribeiro, RP; Ponz-Segrelles, G; Bleidorn
 Assemblies were splitted:
 Sphaerosyllis hystrix: five files in Sphaerosyllis_hystrix-assembly.rar
 Syllis gracilis: five files in Syllis_gracilis_assembly_part1.rar, and two files in Syllis_gracilis_assembly_part2.rar
-Statistics of the assemblies are in the files Transdecoder_predicted_proteins
 ## DE_resuls
+The following codes were used for the experimental conditions:
+
