@@ -10,7 +10,7 @@ Assemblies were splitted:
 ## DE_resuls (folder)
 The following codes were used for the experimental conditions (samples):
 PS_02_NORMAL_genes.results: non-regenerating individuals of *Syllis gracilis*.
-PS_O3_ANT_genes.results: posterior regeneration (anterior fragments) of  *Syllis gracilis*.
+PS_03_ANT_genes.results: posterior regeneration (anterior fragments) of  *Syllis gracilis*.
 PS_04_POST_genes.results: anterior regeneration (posterior fragments) of  *Syllis gracilis*.
 PS_05_Normal: non-regenerating individuals of *Sphaerosyllis hystrix*.
 PS_06_ANT: posterior regeneration (anterior fragments) of *Sphaerosyllis hystrix*.
