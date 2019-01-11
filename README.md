@@ -9,4 +9,6 @@ Sphaerosyllis hystrix: five files in Sphaerosyllis_hystrix-assembly.rar
 Syllis gracilis: five files in Syllis_gracilis_assembly_part1.rar, and two files in Syllis_gracilis_assembly_part2.rar
 ## DE_resuls
 The following codes were used for the experimental conditions:
+PS_02_NORMAL:
+PS_03_ANT: 
 
