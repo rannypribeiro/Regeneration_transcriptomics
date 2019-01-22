@@ -1,5 +1,5 @@
 # Regeneration_transcriptomics
-This repository contains resources from Ribeiro, RP; Ponz-Segrelles, G; Bleidorn, C &amp; Aguado MT (in prep) "Comparative transcriptomics of the regeneration in syllids (Annelida, Syllidae): epigamy and schizogamy show similar patterns"
+This repository contains resources from Ribeiro, RP; Ponz-Segrelles, G; Bleidorn, C; Aguado MT (in prep) "Syllid posterior regeneration and regular growth are indistinguishable at the transcriptomic level"
 ## Contends of this repository
 1. Assemblies, assembly statistics, and 'Transdecoder predicted' proteins from the assemblies, of two species: *Sphaerosyllis hystrix* and *Syllis gracilis*.
 2. DE_results (folder): contains the results of functional enrichement of 'Trinity genes' resulted from differential expression (DE) analysis.
